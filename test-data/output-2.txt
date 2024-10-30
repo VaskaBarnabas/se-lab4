@@ -1,0 +1,2 @@
+SUCCESS # létrehoz egy hajót sikeresen
+FAIL #nem tud torpedót kilőni

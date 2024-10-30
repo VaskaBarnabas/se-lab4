@@ -1,0 +1,5 @@
+GT4500,2,0,1,0 #létrehoz egy hajót 1-1 torpedóval
+TORPEDO,SINGLE  #primary első torpedót kilövi
+TORPEDO,SINGLE  #secondary első torpedót kilövi
+TORPEDO,SINGLE  #primary második torpedót kilövi
+TORPEDO,SINGLE  #secondary második torpedót kilövi
