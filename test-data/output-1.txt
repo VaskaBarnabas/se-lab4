@@ -1,0 +1,2 @@
+SUCCESS #Létrehoz egy hajót
+SUCCESS #Ki tudja-e lőni mindkét torpedót

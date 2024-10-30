@@ -1,0 +1,4 @@
+#Egyetlen egy torpedó van a hajóban
+GT4500,1,0,0,0 #létrehoz egy hajót 1 torpedóval
+TORPEDO,SINGLE  #megpróbálja torpedót kilövi
+TORPEDO,SINGLE  #megpróbál mégegy torpedót kilövi
